@@ -1,28 +1,24 @@
 # Digital Service Standard, 2021
-
-The Digital Service Standard sets out 13 points to help Ontario ministries and agencies build and deliver simpler, faster, better government services and products for the people who live and do business in Ontario.
-
+The Digital Service Standard sets out 13 points
+to help Ontario ministries and agencies build and deliver
+simpler, faster, better government services and products for the people who live and do business in Ontario.
 [Read case studies, resources and related rules](https://www.ontario.ca/page/build-ontario-government-services)
-
 ---
-
 ## Why it matters
-
 The standard helps:
-
-* define what good digital practice looks like in Ontario
-* identify the steps teams need to take to get there
-
-The standard is built on the aspirations and experiences of teams across the Ontario Public Service and other jurisdictions, for example:
-
+1. Define what good digital practice looks like in Ontario.
+2. Identify the steps teams need to take to get there.
+The standard is built on the aspirations and experiences of teams
+across the Ontario Public Service and other jurisdictions, for example:
 * Canadian Digital Service and other provinces and territories
 * UK’s Government Digital Service
 * Australia’s Digital Transformation Agency
 * United States Digital Service and 18F
-
 ## Release in phases
-
-Ontario’s service design journey follows design and release phases. Each phase is driven by user needs and prioritizes several points from the standard. Learn more about how to work in design and release phases in the [Service Design Playbook] (https://www.ontario.ca/page/service-design-playbook).
+Ontario’s service design journey follows design and release phases.
+Each phase is driven by user needs and prioritizes several points from the standard.
+Learn more about how to work in design and release phases in the
+[Service Design Playbook](https://www.ontario.ca/page/service-design-playbook).
 
 | User needs |            |
 | ---------- | ---------- |
@@ -32,11 +28,10 @@ Ontario’s service design journey follows design and release phases. Each phase
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve the service or product based on user feedback and data |
 
 ## 1. Understand users and their needs
-
-Start with users to define the problem. Do research to develop a deep understanding of who the users are, how they behave and what that means for the design of the service.
-
+Start with users to define the problem.
+Do research to develop a deep understanding of who the users are,
+how they behave and what that means for the design of the service.
 ### Why it matters
-
 Understanding the people who use a service and what they want is critical to building a service that works for them. For example, users of a driver’s license renewal service include any Ontarian with a driver’s license.
 
 It’s easy to make assumptions about users or be influenced by personal experiences. When thinking about users, it’s important to find people with different experiences and perspectives.
